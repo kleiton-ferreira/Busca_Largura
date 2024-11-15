@@ -1,1 +1,1 @@
-# Busca em Largura num Grafo em Java
+# Busca em Largura de um Grafo em Java
